@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Arnaldo, I'm 18 years old<br><br>I'm studying at Uninassau and Alura<br><br>I'm currently delving into Python and Javascript and intend to move into HTML and CSS<br><br>My Gmail : arnaldojoseboy@gmail.com
+My name is Arnaldo, I'm 18 years old<br><br>I'm studying at Uninassau and Alura<br><br>I'm currently deving into Python and Javascript and intend to move into HTML and CSS<br><br>My Gmail : arnaldojoseboy@gmail.com
 
 
 ## 🌐 Socials:
